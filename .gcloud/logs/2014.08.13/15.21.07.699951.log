@@ -1,0 +1,11 @@
+2014-08-13 15:21:07,712 DEBUG    root            Metrics started...
+2014-08-13 15:21:07,717 DEBUG    root            Running gcloud.auth.git-helper with _Args({'format': None,
+ 'h': None,
+ 'help': None,
+ 'method': 'store',
+ 'project': None,
+ 'quiet': None,
+ 'shell': None,
+ 'user_output_enabled': None,
+ 'verbosity': None}).
+2014-08-13 15:21:07,725 DEBUG    root            Shutting down metrics...
