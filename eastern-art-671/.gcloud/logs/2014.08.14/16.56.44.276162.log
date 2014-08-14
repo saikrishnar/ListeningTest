@@ -1,0 +1,10 @@
+2014-08-14 16:56:44,285 DEBUG    root            Metrics are disabled.
+2014-08-14 16:56:44,290 DEBUG    root            Running gcloud.auth.git-helper with _Args({'format': None,
+ 'h': None,
+ 'help': None,
+ 'method': 'store',
+ 'project': None,
+ 'quiet': None,
+ 'shell': None,
+ 'user_output_enabled': None,
+ 'verbosity': None}).
